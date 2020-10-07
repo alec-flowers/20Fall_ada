@@ -67,8 +67,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 27,
+<<<<<<< HEAD
+   "execution_count": 2,
    "metadata": {},
+||||||| 22e14cf
+   "execution_count": 2,
+   "metadata": {
+    "collapsed": true
+   },
+=======
+   "execution_count": 27,
+   "metadata": {
+    "collapsed": true
+   },
+>>>>>>> 3212294a96fe4c3948d6bb5e89c6c13b01eeb50e
    "outputs": [],
    "source": [
     "# This is a helper bootstrapping function you can use in this exercise to obtain 95% confidence\n",
